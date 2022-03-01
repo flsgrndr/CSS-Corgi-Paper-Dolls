@@ -1,0 +1,36 @@
+/* Relative Example */
+
+.funny-glasses {
+    position: relative;
+    left: 213px;
+    bottom: 108px;
+}
+
+/* Absolute Example */
+.bandana {
+    position: absolute;
+    top: 180px;
+    left: 108px;
+}
+
+/* Fixed Example */
+
+.pawprint {
+    position: fixed;
+    top: 45px;
+    left: 65px;
+}
+
+/* Sticky Example */
+
+.luna {
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+
+/* Z-Index Example */
+
+.top-hat {
+    z-index: 1;
+}
